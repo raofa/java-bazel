@@ -1,9 +1,9 @@
-# java-bazel
+## java-bazel
 
-# Build
+### Build
 
  bazel build :java-bazel
 
-# Run
+### Run
 
  bazel-bin/java-bazel
